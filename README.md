@@ -1,3 +1,10 @@
+# About the task
+
+- Created a json file(graphql-server,json), which contains the transaction data list. The data is run using graphql server. In order to run the server, you install json-graphql-server package globally, then start the graphql server adding this: 'json-graphql-server graphql-server.json --p 5000' on the command line, it means that the server should be run on port 5000.
+
+- Added search feature and filter features (by transaction type and status)
+- Listed the transaction according to the date.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
